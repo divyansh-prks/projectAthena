@@ -7,7 +7,7 @@ const JoinUs: React.FC = () => {
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="max-w-3xl mx-auto text-center mb-16">
           <h2 className="text-3xl md:text-4xl font-bold mb-6">
-            Join <span className="text-blue-400">Project Athena</span>
+             Want to Join <span className="text-blue-400">Project Athena ?</span>
           </h2>
           <p className="text-xl text-gray-300">
             Begin your journey with us and become part of an extraordinary community of innovators and leaders.
