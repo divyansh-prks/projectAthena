@@ -24,7 +24,7 @@ const Testimonials: React.FC = () => {
       id: 1,
       name: 'Nikhil',
       role: 'Blockchain Developer',
-      achievement: 'Founder',
+      achievement: 'Supreme leader',
       image: 'https://i.postimg.cc/DyhgdGTt/nikhilser.png',
     },
     {
